@@ -1,5 +1,5 @@
  .header{
-    height: 40vw;
+    height: 35vw;
     margin-top: 30px auto;
     background: url('./header.png') no-repeat;
     background-size: contain;
@@ -13,7 +13,7 @@
     align-items: start;
     gap: 1.5vw;
     max-width: 90%;
-    bottom: 25%;
+    bottom: 15%;
     left: 18vw;
     animation: fadeIn 3s ;
 } 
