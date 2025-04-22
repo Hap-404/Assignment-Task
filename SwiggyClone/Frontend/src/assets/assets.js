@@ -12,9 +12,9 @@ import menu_7 from './menu_7.png'
 import menu_8 from './menu_8.png'
 import menu_9 from './menu_9.jpg'
 import menu_10 from './menu_10.jpg'
-import menu_11 from './menu_11.jpg'
-import menu_12 from './menu_12.jpg'
-import menu_13 from './menu_13.jpg'
+// import menu_11 from './menu_11.jpg'
+// import menu_12 from './menu_12.jpg'
+// import menu_13 from './menu_13.jpg'
 
 
 import food_1 from './food_1.png'
@@ -65,6 +65,7 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
+import banner from './qr_banner.png'
 
 export const assets = {
     logo,
@@ -85,7 +86,8 @@ export const assets = {
     profile_icon,
     logout_icon,
     bag_icon,
-    parcel_icon
+    parcel_icon,
+    banner,
 }
 
 export const menu_list = [
